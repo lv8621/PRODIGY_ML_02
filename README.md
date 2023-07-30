@@ -22,10 +22,10 @@ The structure of the dataset could be as follows:
 
 CustomerID	ProductA	ProductB	ProductC	...	ProductN
 
-1	            20.0	    10.0	     5.0	  ...	  8.0
-2	            15.0	    12.0	     3.0	  ...	  10.0
-3	            18.0	    8.0	       4.0	  ...	  12.0
-...	          ...	      ...	       ...	  ...	  ...
+    1	         20.0	    10.0	    5.0	    ...	  8.0
+    2	         15.0	    12.0	    3.0	    ...	  10.0
+    3	         18.0	    8.0	      4.0	    ...	  12.0
+    ...	       ...	    ...	      ...	    ...	  ...
 
 Installation
 
